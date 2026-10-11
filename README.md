@@ -1,4 +1,4 @@
-# Brew Heaven ☕
+# Brew Haven ☕
 
 A coffee shop website created using HTML and CSS.
 
@@ -6,9 +6,4 @@ A coffee shop website created using HTML and CSS.
 - HTML
 - CSS
 
-## Features
-- Responsive layout
-- Navigation bar
-- Coffee menu
-- Contact section
-- Footer with social links
+
