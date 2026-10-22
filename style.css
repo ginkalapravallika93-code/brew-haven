@@ -31,11 +31,12 @@ img {
 .navbar {
     width: 100%;
     min-height: 80px;
-    padding: 15px 6%;
+    padding: 18px 6%;
     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 20px;
+  
 }
 
 .logo {
@@ -72,6 +73,7 @@ img {
     align-items: center;
     justify-content: space-between;
     gap: 50px;
+  
 }
 
 .hero-text {
@@ -96,6 +98,7 @@ img {
 .hero h1 span {
     color: #bd7956;
     font-style: italic;
+    color:#254F22;
 }
 
 .description {
@@ -122,6 +125,7 @@ img {
 .primary {
     background-color: #39271f;
     color: white;
+    background-color: #254F22;
 }
 
 .secondary {
@@ -144,8 +148,9 @@ img {
 .blends {
     padding: 90px 6%;
     text-align: center;
-    background-color: #f0e6d8;
+   background-color: rgb(211, 193, 169);
 }
+
 
 .blends h2,
 .about h2,
@@ -155,6 +160,7 @@ img {
     line-height: 1.2;
     margin-bottom: 15px;
 }
+
 
 .section-description {
     color: #75665b;
